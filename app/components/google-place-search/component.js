@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-google-place-search/components/google-place-search/component';
