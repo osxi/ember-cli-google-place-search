@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-google-place-search",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Google Place Search Component for Ember CLI",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/osxi/ember-cli-google-place-search",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "osxi",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.1.2",
