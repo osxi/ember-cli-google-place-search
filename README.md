@@ -1,4 +1,4 @@
-# Ember-cli-google-place-search [![Dependency Status](https://david-dm.org/osxi/ember-cli-google-place-search.svg)](https://david-dm.org/osxi/ember-cli-google-place-search) [![devDependency Status](https://david-dm.org/osxi/ember-cli-google-place-search/dev-status.svg)](https://david-dm.org/osxi/ember-cli-google-place-search#info=devDependencies)
+# Ember-cli-google-place-search [![Dependency Status](https://david-dm.org/osxi/ember-cli-google-place-search.svg)](https://david-dm.org/osxi/ember-cli-google-place-search) [![devDependency Status](https://david-dm.org/osxi/ember-cli-google-place-search/dev-status.svg)](https://david-dm.org/osxi/ember-cli-google-place-search#info=devDependencies) [![Build Status](https://travis-ci.org/osxi/ember-cli-google-place-search.svg)](https://travis-ci.org/osxi/ember-cli-google-place-search)
 
 This README outlines the details of collaborating on this Ember addon.
 
